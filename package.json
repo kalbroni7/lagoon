@@ -15,7 +15,7 @@
     "@stacks/connect": "^7.4.0",
     "@stacks/network": "^6.8.1",
     "@stacks/transactions": "^6.15.0",
-    "next": "14.2.32",
+    "next": "15.5.10",
     "react": "latest",
     "react-dom": "latest",
     "sbtc": "^0.1.7",
